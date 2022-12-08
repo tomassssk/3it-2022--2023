@@ -6,7 +6,7 @@ public class Animal {
 
     public Animal(String neco,double value){
         this.neco = neco;
-        this.value= value;
+
     }
 
     public String getNeco(){
